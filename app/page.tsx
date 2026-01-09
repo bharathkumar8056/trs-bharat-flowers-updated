@@ -515,8 +515,8 @@ Our team will guide you through each step of the process to ensure a smooth expe
               </h2>
 
               <p className="text-blue-700 text-lg leading-relaxed">
-                At TRS Bharat Global Solutions, we are your trusted partner for premium-quality rice, cashew nuts, and
-                coconut products. We specialize in connecting the richness of Indian agriculture to global markets with
+                At TRS Bharat Global Solutions, we are your trusted partner for premium-quality Flowers , rice, coconut, and
+                cashew nuts products. We specialize in connecting the richness of Indian agriculture to global markets with
                 a strong focus on quality, consistency, and reliability. Our products are handpicked, processed with
                 care, and meet international food-grade certifications. With hassle-free export services, fast
                 processing, and secure global delivery, we ensure smooth end-to-end logistics for every order. We
@@ -687,8 +687,8 @@ Our team will guide you through each step of the process to ensure a smooth expe
                 insights into international market requirements and quality standards.
               </p>
               <p className="text-blue-700 text-lg">
-                Today, we serve clients across multiple continents, providing them with premium rice, cashew nuts, and
-                coconut products that meet international standards. We continue to expand our reach while maintaining
+                Today, we serve clients across multiple continents, providing them with Flowers, premium rice, coconut, and
+                cashew nuts products that meet international standards. We continue to expand our reach while maintaining
                 our core values of quality, integrity, and sustainability, backed by our 18 years of proven expertise in
                 the field.
               </p>
