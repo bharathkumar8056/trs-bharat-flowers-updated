@@ -515,7 +515,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
               </h2>
 
               <p className="text-blue-700 text-lg leading-relaxed">
-                At TRS Bharat Global Solutions, we are your trusted partner for premium-quality Flowers , rice, coconut, and
+                At TRS Bharat Global Solutions, we are your trusted partner for premium-quality flowers , coconut, rice and
                 cashew nuts products. We specialize in connecting the richness of Indian agriculture to global markets with
                 a strong focus on quality, consistency, and reliability. Our products are handpicked, processed with
                 care, and meet international food-grade certifications. With hassle-free export services, fast
@@ -587,7 +587,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
                 <li className="flex items-start space-x-3">
                   <Check className="text-amber-600 mt-1 flex-shrink-0" />
                   <p className="text-blue-700">
-                    To provide the highest quality rice, cashew nuts, and other products sourced from certified farms.
+                    To provide the highest quality flowers, coconut, rice, cashew nuts, and other products sourced from certified farms.
                   </p>
                 </li>
                 <li className="flex items-start space-x-3">
@@ -687,7 +687,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
                 insights into international market requirements and quality standards.
               </p>
               <p className="text-blue-700 text-lg">
-                Today, we serve clients across multiple continents, providing them with Flowers, premium rice, coconut, and
+                Today, we serve clients across multiple continents, providing them with flowers, coconut, rice, and
                 cashew nuts products that meet international standards. We continue to expand our reach while maintaining
                 our core values of quality, integrity, and sustainability, backed by our 18 years of proven expertise in
                 the field.
