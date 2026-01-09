@@ -622,7 +622,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
             <h3 className="text-3xl sm:text-4xl font-bold text-blue-900 mb-4">About TRS Bharat Global Solutions</h3>
             <p className="text-blue-700 text-lg max-w-3xl mx-auto">
               We are a leading exporter of premium agricultural products from India, committed to delivering the highest
-              quality rice, cashew nuts, and coconut products to global markets.
+              quality flowers , coconut , rice, and cashew nuts products to global markets.
             </p>
           </div>
 
